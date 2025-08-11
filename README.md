@@ -1,5 +1,5 @@
 # dsgogogo
-Road of DS Growth
+Road of DS Growth for LJ
 
 ## DS tech stack:
 1. product case study
